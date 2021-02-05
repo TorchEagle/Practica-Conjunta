@@ -78,6 +78,11 @@ li {
     margin-bottom: 0%;
 }
 
+li:hover {
+    font-weight: bold;
+    background-color: yellow;
+}
+
 a {
     border: 1px solid black;
     padding-left: 4px;
