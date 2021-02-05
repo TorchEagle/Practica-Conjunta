@@ -1,0 +1,85 @@
+html {
+    background-color: orange;
+}
+
+
+h1 {
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Sriracha';
+    font-weight: 1100;
+}
+
+
+article.blanco {
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+article.cadet {
+    background-color: rgb(142, 211, 214);
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+nav {
+    margin-top: 0%;
+    background-color: rgb(186, 237, 238);
+    padding-bottom: 5px;
+}
+
+footer {
+    background-color: rgb(255, 133, 85);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+p.primero {
+    border-top: 20px solid blue;
+    border-bottom: 20px solid blue;
+    color: blue;
+
+}
+
+p.segundo {
+    border-top: 20px solid red;
+    border-bottom: 20px solid red;
+    color: red;
+}
+
+p.pie {
+    text-align: center;
+}
+
+img.jobs {
+    float: left;
+    width: 250px;
+    height: 200px;
+}
+
+img.mac {
+    float: right;
+}
+
+span.marcar {
+    background-color: yellow;
+}
+
+span.tachar {
+    text-decoration: line-through;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    margin: 2px;
+    margin-bottom: 0%;
+}
+
+a {
+    border: 1px solid black;
+    padding-left: 4px;
+    padding-right: 4px;
+}
