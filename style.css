@@ -71,14 +71,19 @@ span.tachar {
     text-decoration: line-through;
 }
 
-li {
+ol {
+    background-color: rgb(255, 236, 200);
+    list-style-type: katakana-iroha;
+}
+
+li.link {
     list-style: none;
     display: inline;
     margin: 2px;
     margin-bottom: 0%;
 }
 
-li:hover {
+li.link:hover {
     font-weight: bold;
     background-color: yellow;
 }
